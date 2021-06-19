@@ -1,0 +1,5 @@
+Nome: Lucas Paulo de Oliveira Pinto.
+Turma: CCO7
+Trabalho 3 grafos
+atividade 1: https://replit.com/@LucasPaulo2/trabalho3grafos1#main.cpp
+atividade 2: https://replit.com/@LucasPaulo2/trabalho3grafos2#main.cpp
